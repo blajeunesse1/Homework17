@@ -1,0 +1,45 @@
+.navbar{
+    float: right;
+
+}
+
+.menu{
+    display: inline-block;
+    font-family: Roboto;
+    font-size: 30px;
+    color:white;
+    background-color:#9A9A9A;
+    padding: 15px;
+    margin: 15px;
+
+    
+}
+
+h1{
+    font-family: Roboto;
+    font-size: 75px;
+}
+.hero{
+    width: 80%;
+    margin: auto;
+}
+.left{
+    width:50%;
+    float:left;
+    text-align: center;
+}
+.right{
+    width:50%;
+    float:left;
+
+}
+.heroimage{
+    display: inline-block;
+    width: 30%;
+    height: 30%;
+    margin: auto;
+}
+h2{
+    font-family: Roboto;
+    font-size: 70px;
+}
